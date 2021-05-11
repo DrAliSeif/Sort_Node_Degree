@@ -32,6 +32,7 @@ node    degree  ---->   node    degree
 
 ```
 ----------------------------------
+# Code
 
 ```ruby
 #include<iostream>                                                              //for cout
