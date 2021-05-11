@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Ali\Desktop\sortconnections\sortconnections\Source.cpp(134,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ali\Desktop\sortconnections\sortconnections\Source.cpp(135,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ali\Desktop\sortconnections\sortconnections\Source.cpp(154,23): warning C4018: '<': signed/unsigned mismatch
+  sortconnections.vcxproj -> C:\Users\Ali\Desktop\sortconnections\Debug\sortconnections.exe
